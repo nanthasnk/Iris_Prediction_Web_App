@@ -4,8 +4,8 @@
 - Built a client-facing web application using streamlit and deployed it on Heroku.
 
 # Motivation
-> ***The best way to learn is by doing. The only way to build a strong work ethic is getting your hands dirty.*** - Alex Spanos <br>
-This quote inspired me to build my first web application for machine learning problem integrating my sofware engineering knowledge with data science and successfully hosting it on heroku.
+***The best way to learn is by doing. The only way to build a strong work ethic is getting your hands dirty.*** - Alex Spanos <br>
+This inspired me to build my first web application for machine learning problem integrating my sofware engineering knowledge with data science and successfully hosting it on heroku.
 
 
 # DataSet Information
